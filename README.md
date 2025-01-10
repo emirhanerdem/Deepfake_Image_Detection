@@ -9,7 +9,8 @@ Gerçek ve sahte görüntülerin ayırt edilmesi
 ## Kullanılan Veri Setleri ##
 Manjilkarki-deepfake-and-real-images: 191.720 görüntü içerir (%50 gerçek, %50 sahte).
 xhlulu/140k-real-and-fake-faces: 140.000 görüntü içerir (%50 gerçek, %50 sahte).
-Kullanılan Modeller ve Sonuçlar
+
+## Kullanılan Modeller ve Sonuçlar: ##
 ### ResNet50:
 Xhlulu veri setinde %98.87 doğruluk oranı.
 Yüksek F1 skoru (%99) ve dengeli performans.
