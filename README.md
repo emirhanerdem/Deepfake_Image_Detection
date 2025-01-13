@@ -12,7 +12,7 @@ xhlulu/140k-real-and-fake-faces: 140.000 görüntü içerir (%50 gerçek, %50 sa
 
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/71fa4bbd-774f-455d-aa38-a9cbaa68f05b" />
 
-
+#
 ## Kullanılan Modeller ve Sonuçlar: ##
 
 <img width="1052" alt="Ekran Resmi 2024-12-09 19 47 20" src="https://github.com/user-attachments/assets/34254911-6352-4c3e-a8b8-d107b3985094" />
