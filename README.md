@@ -12,6 +12,9 @@ xhlulu/140k-real-and-fake-faces: 140.000 görüntü içerir (%50 gerçek, %50 sa
 
 ## Kullanılan Modeller ve Sonuçlar: ##
 
+<img width="1052" alt="Ekran Resmi 2024-12-09 19 47 20" src="https://github.com/user-attachments/assets/34254911-6352-4c3e-a8b8-d107b3985094" />
+
+
 ### ResNet50:
 Xhlulu veri setinde %98.87 doğruluk oranı.
 Yüksek F1 skoru (%99) ve dengeli performans.
