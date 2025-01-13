@@ -29,7 +29,7 @@ Fake görüntüler için %92 duyarlılık ve %85 kesinlik.
 ### Xception:
 Xhlulu veri setinde %90 doğruluk.
 Fake görüntüler için %96 duyarlılık ve %86 kesinlik.
-
+##
 #### Çalışma Ortamı
 Google Colab Pro kullanılarak geliştirilmiş ve eğitilmiştir.
 Kaggle platformundan alınan veri setleri Google Drive üzerinde saklanmıştır.
