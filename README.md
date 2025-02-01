@@ -20,7 +20,7 @@ xhlulu/140k-real-and-fake-faces: 140.000 görüntü içerir (%50 gerçek, %50 sa
 
 
 ### ResNet50:
-Xhlulu veri setinde %98.87 doğruluk oranı.
+Xhlulu veri setinde %98.85 doğruluk oranı.
 Yüksek F1 skoru (%99) ve dengeli performans.
 
 ### CNN:
