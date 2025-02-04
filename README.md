@@ -12,7 +12,7 @@ xhlulu/140k-real-and-fake-faces: 140.000 görüntü içerir (%50 gerçek, %50 sa
 
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/71fa4bbd-774f-455d-aa38-a9cbaa68f05b" />
 
-#
+
 ## Kullanılan Modeller ve Sonuçlar: ##
 
 ![image](https://github.com/user-attachments/assets/d5a03c7f-1099-4b85-9d45-495b8da9e9ba)
