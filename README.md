@@ -1,6 +1,6 @@
 # Deepfake_Image_Detection
 Derin Sahte Tespit Sistemi
-Bu proje, derin sahte (deepfake) içeriklerin tespit edilmesine yönelik yeni bir sistemin geliştirilmesini amaçlamaktadır. ResNet50, CNN ve Xception gibi derin öğrenme modelleri kullanılarak, farklı veri setleriyle test edilmiş ve başarıyla uygulanmıştır.
+Bu proje, derin sahte (deepfake) içeriklerin tespit edilmesine yönelik yeni bir sistemin geliştirilmesini amaçlamaktadır. ResNet50, CNN ve Xception gibi 3 farklı derin öğrenme modeli kullanılarak, 2 farklı veri setleriyle test edilmiş ve başarıyla uygulanmıştır.
 
 ## Projenin Amacı ##
 Deepfake teknolojisi, görsel ve işitsel içeriklerde manipülasyon yaparak sahte veriler üretmektedir. Bu teknoloji, özellikle medikal verilerde güvenlik ve doğruluk açısından ciddi sorunlara yol açabilir. Bu çalışmada:
